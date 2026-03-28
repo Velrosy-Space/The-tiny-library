@@ -1,4 +1,7 @@
-# Wallpaper
+
+
+
+# Wallpaper section 
 
 <details>
   <summary><b><font size="5"> ✨ Anime-wallpaper</font></b></summary>

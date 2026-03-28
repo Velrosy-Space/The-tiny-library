@@ -37,6 +37,8 @@
   <img src="Anime-wallpaper/d9b29715b473dd0a5b37e1bc9929907b.jpg" width="100%" />
   
   <img src="Anime-wallpaper/b000be6e4a90a29fd8283a87818e125a.jpg" width="100%" />
+
+ ![all anime wallpaper here](Anime-wallpaper)
   
 <br><br>
 </details>

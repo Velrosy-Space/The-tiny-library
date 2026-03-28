@@ -24,7 +24,15 @@
   
   <img src="Anime-wallpaper/abandoned-trainstation.webp" width="100%" />
   
-  <img src="Anime-wallpaper/a84321967403f248b412f7f62e76738d.webp" width="100%" />
+  <img src="Anime-wallpaper/wallpaperflare.com_wallpaper_3.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/thumb-1920-1174832.jpg" width="100%" />
+  
+  <img src="Anime-wallpaper/pc_WP.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/my-neighbor-totoro-sunflowers.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/" width="100%" />
   
   <img src="Anime-wallpaper/" width="100%" />
   

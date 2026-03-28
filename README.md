@@ -48,7 +48,7 @@
   <summary><b><font size="5"> ✨ video-wallpaper</font></b></summary>
   <br>
 
-<img src="video-wallpaper/GIF_20260328_174623_600.gif" width="100%" />
+<img src="Video-wallpaper/GIF_20260328_174623_600.gif" width="100%" />
 
 [Download the wallpaper](Video-wallpaper/lofi-girl-reading-book-while-its-raining-outside-pixel-moewalls-com.mp4)
 

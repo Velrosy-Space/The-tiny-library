@@ -15,6 +15,18 @@
   <img src="Anime-wallpaper/5.webp" width="100%" />
 
   <img src="Anime-wallpaper/3d-view-sun-sky-from-room.webp" width="100%" />
+
+  <img src="Anime-wallpaper/general-1749388161.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/frutiger.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/asian-village.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/abandoned-trainstation.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/a84321967403f248b412f7f62e76738d.webp" width="100%" />
+  
+  <img src="Anime-wallpaper/" width="100%" />
   
 <br><br>
 </details>

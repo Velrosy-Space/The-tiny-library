@@ -41,9 +41,9 @@ for Linux users
 <br><br>
 </details
 
-
-# Discord Profile Section 
 ---
+# Discord Profile Section 
+
 
 <details>
   <summary><b><font size="5"> ✨ Discord-Profiles</font></b></summary>

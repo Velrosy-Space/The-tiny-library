@@ -58,7 +58,7 @@ for Linux users
 |-------|-------|-------|
 | <img src="Discord-profile/profile_1114208841647788113.webp" width="300"> |  <img src="Discord-profile/profile_1114208841647788113 (2).gif" width="300"> | <img src="Discord-profile/file.webp" width="300"> |
 ° it is just example : you can see all Profiles in my Server  🪐
-[![Join](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/fxFzwzWsNh)
+[![Join](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/k3fkAfx7YC)
 
 <br><br>
 </details

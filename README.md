@@ -52,9 +52,9 @@ for Linux users
   <summary><b><font size="5"> ✨ Discord-Profiles</font></b></summary>
   <br>
 
-| profiles | gif profiles | Matching Profiles |
-|-------|-------|-------|
-| <img src="Discord-profile/profile_264004753447452674.webp" width="300"> |  <img src="Discord-profile/profile_1114208841647788113 (2).gif" width="300"> | <img src="Discord-profile/matching_vibe.webp" width="300"> |
+| profiles | Matching Profiles |
+|------- | -------|
+| <img src="Discord-profile/profile_264004753447452674.webp" width="300"> | <img src="Discord-profile/matching_vibe.webp" width="300"> |
 want to make your pfp server special ? use [Profile Designer System](https://github.com/Velrosy-Space/Profile-Designer-System)
 or want to make your profile more pretty ? join my community server [Havenia](https://discord.gg/havenia)
 

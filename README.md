@@ -2,8 +2,6 @@ for Linux users
 [dotfiles](https://github.com/stars/Velrosy/lists/dotfiles)
 
 
-
-
  
 
 # Wallpaper section 
@@ -57,10 +55,9 @@ for Linux users
 | profiles | gif profiles | Matching Profiles |
 |-------|-------|-------|
 | <img src="Discord-profile/profile_1114208841647788113.webp" width="300"> |  <img src="Discord-profile/profile_1114208841647788113 (2).gif" width="300"> | <img src="Discord-profile/file.webp" width="300"> |
-° it is just example : you can see all Profiles in my Server  🪐
-[![Join](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/k3fkAfx7YC)
+want to make your pfp server special ? use [Profile Designer System](https://github.com/Velrosy-Space/Profile-Designer-System)
+or want to make your profile more pretty ? join my community server [Havenia](https://discord.gg/havenia)
+
 
 <br><br>
 </details
-
-more soon

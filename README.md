@@ -53,7 +53,7 @@ for Linux users
   <br>
 
 | profiles | Matching Profiles |
-|------- | -------|
+|-------|-------|
 | <img src="Discord-profile/profile_264004753447452674.webp" width="300"> | <img src="Discord-profile/matching_vibe.webp" width="300"> |
 want to make your pfp server special ? use [Profile Designer System](https://github.com/Velrosy-Space/Profile-Designer-System)
 or want to make your profile more pretty ? join my community server [Havenia](https://discord.gg/havenia)
